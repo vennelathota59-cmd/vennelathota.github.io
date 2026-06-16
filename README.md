@@ -1,50 +1,71 @@
-# 👋 Hi, I'm a Python & Data Analytics Enthusiast
+👩‍💻 Vennela Thota — Data Analyst | AI Enthusiast | AWS Certified
+🚀 About Me
+   
+     I am an aspiring Data Analyst & AI enthusiast with strong interest in transforming raw data into meaningful insights and business decisions.
+I am passionate about working with Python, SQL, Excel, Power BI, and Machine Learning to solve real-world problems.
 
-## 👤 About Me
-I am a Computer Science student passionate about Python programming, Data Analytics, and solving real-world problems using data.
+Currently, I am gaining hands-on experience through internships and personal projects, and continuously improving my skills in Data Analytics and Artificial Intelligence.
 
-I enjoy working with datasets, extracting insights, and building meaningful projects.
+🎯 Career Focus
+Data Analysis & Visualization 📊
+Machine Learning & AI Basics 🤖
+Business Intelligence Reporting 📈
+Data-driven Decision Making 💡
+🧠 Skills
+📌 Programming & Data
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+SQL (MySQL / PostgreSQL)
+Excel (Advanced formulas, Pivot Tables, Dashboards)
+📊 Visualization Tools
+Power BI
+Matplotlib / Seaborn
+☁️ Cloud & Tools
+AWS (Certified)
+Git & GitHub
+Jupyter Notebook
+🤖 AI / ML Basics
+Data Preprocessing
+Supervised Learning Models
+Fake News Detection (Project)
+Classification Models
+🏆 Certifications
+AWS Certified (Amazon Web Services)
+Tata Data Analytics Virtual Internship
+AI/Data Analytics Internship (Avaintern / Others)
+Online Courses in Data Science & AI
+💼 Experience
+📌 Virtual Internship in Data Analytics & AI
+📌 Hands-on project experience in Python & Machine Learning
+📌 Worked on real-world datasets for analysis and predictions
+📁 Featured Projects
+🔹 Fake News Detection using Machine Learning
 
----
+Built a classification model using Python to detect fake news using NLP techniques.
 
-## 🛠 Technical Skills
-- Python (Basics to Intermediate)
-- Data Analysis (Pandas, NumPy basics)
-- Data Visualization 
-- SQL (Beginner)
-- Git & GitHub
+🔹 Student Performance Analysis
 
----
+Analyzed student data to identify key factors affecting performance using Python & visualization tools.
 
-## 📊 Areas of Interest
-- Data Analyst roles
-- Business Intelligence
-- Data Visualization & Reporting
-- Machine Learning (Beginner level)
+🔹 Sales Data Analysis Dashboard
 
----
+Created interactive dashboards using Power BI to track sales performance and trends.
 
-## 🚀 Projects
-- Fake News Detection using Machine Learning  
-- Student Performance Analysis  
-- Customer Segmentation using Clustering  
-- Basic Data Visualization dashboards
+🔹 Customer Segmentation
 
----
+Performed clustering to group customers based on behavior using machine learning techniques.
 
-## 🎯 Internship Objective
-I am actively looking for internship opportunities in Data Analytics or Python Development where I can apply my skills and gain real-world experience.
+📊 Tools I Use
 
----
+Python | SQL | Excel | Power BI | AWS | GitHub
 
-## 📈 Learning Goals
-- Improve advanced Python skills  
-- Work on real-world datasets  
-- Learn Power BI / Advanced SQL  
-- Build strong Data Analyst portfolio
+🌐 GitHub Profile Goal
 
----
+I am continuously improving my profile with real-world projects, internships, and certifications to become a professional Data Analyst / AI Engineer.
 
-## 📫 Contact
-- Email: vennelathota59@gmail.com
-- Open to internships and collaboration opportunities
+📬 Contact
+GitHub: (add your link here)
+LinkedIn: (add your link here)
+Email: (add your email here)
+⭐ Note
+
+All projects uploaded here are part of my learning journey in Data Analytics, AI, and Cloud technologies.
