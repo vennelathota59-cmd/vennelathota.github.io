@@ -1,71 +1,68 @@
-👩‍💻 Vennela Thota — Data Analyst | AI Enthusiast | AWS Certified
+👩‍💻 Vennela Thota — Data Analyst | AI & ML Enthusiast | AWS Certified
 🚀 About Me
-   
-     I am an aspiring Data Analyst & AI enthusiast with strong interest in transforming raw data into meaningful insights and business decisions.
-I am passionate about working with Python, SQL, Excel, Power BI, and Machine Learning to solve real-world problems.
 
-Currently, I am gaining hands-on experience through internships and personal projects, and continuously improving my skills in Data Analytics and Artificial Intelligence.
+I am an aspiring Data Analyst and AI/ML enthusiast with a strong passion for transforming raw data into meaningful insights that support business decisions.
 
-🎯 Career Focus
-Data Analysis & Visualization 📊
-Machine Learning & AI Basics 🤖
-Business Intelligence Reporting 📈
+I have hands-on experience in Python, SQL, Excel, Power BI, and Machine Learning, and I am continuously improving my skills through internships, certifications, and real-world projects.
+
+My goal is to become a professional Data Analyst / AI Engineer in a reputed organization.
+
+🎯 Career Interests
+Data Analytics & Visualization 📊
+Machine Learning & Artificial Intelligence 🤖
+Business Intelligence & Reporting 📈
 Data-driven Decision Making 💡
-🧠 Skills
-📌 Programming & Data
+Cloud-based Data Solutions ☁️
+
+🧠 Technical Skills
+💻 Programming & Data
 Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL (MySQL / PostgreSQL)
+SQL (Data querying & analysis)
 Excel (Advanced formulas, Pivot Tables, Dashboards)
+
 📊 Visualization Tools
 Power BI
-Matplotlib / Seaborn
+Matplotlib & Seaborn
 ☁️ Cloud & Tools
 AWS (Certified)
 Git & GitHub
 Jupyter Notebook
-🤖 AI / ML Basics
-Data Preprocessing
-Supervised Learning Models
-Fake News Detection (Project)
+
+🤖 Machine Learning Basics
+Data Cleaning & Preprocessing
 Classification Models
+NLP (Fake News Detection Project)
+Model Evaluation
+
 🏆 Certifications
 AWS Certified (Amazon Web Services)
 Tata Data Analytics Virtual Internship
-AI/Data Analytics Internship (Avaintern / Others)
-Online Courses in Data Science & AI
-💼 Experience
-📌 Virtual Internship in Data Analytics & AI
-📌 Hands-on project experience in Python & Machine Learning
-📌 Worked on real-world datasets for analysis and predictions
-📁 Featured Projects
-🔹 Fake News Detection using Machine Learning
+AI / Data Analytics Internship (Avaintern)
+Online Courses in Data Science & Machine Learning
 
-Built a classification model using Python to detect fake news using NLP techniques.
+💼 Experience
+Virtual Internship in Data Analytics & AI
+Hands-on experience with real-world datasets
+Built multiple end-to-end data science projects
+Created dashboards and predictive models
+
+📁 Projects
+🔹 Fake News Detection using Machine Learning
+Developed a machine learning model using Python and NLP techniques to classify news as real or fake.
 
 🔹 Student Performance Analysis
+Analyzed student data to identify key factors affecting academic performance using Python and visualization tools.
 
-Analyzed student data to identify key factors affecting performance using Python & visualization tools.
-
-🔹 Sales Data Analysis Dashboard
-
-Created interactive dashboards using Power BI to track sales performance and trends.
-
-🔹 Customer Segmentation
-
-Performed clustering to group customers based on behavior using machine learning techniques.
-
-📊 Tools I Use
-
+🛠️ Tools I Use
 Python | SQL | Excel | Power BI | AWS | GitHub
 
-🌐 GitHub Profile Goal
-
-I am continuously improving my profile with real-world projects, internships, and certifications to become a professional Data Analyst / AI Engineer.
+🌟 Goal
+To build a strong career in Data Analytics and AI, contributing to real-world business solutions using data-driven insights.
 
 📬 Contact
-GitHub: (add your link here)
-LinkedIn: (add your link here)
-Email: (add your email here)
-⭐ Note
+GitHub: vennelathota.github.io
+LinkedIn: www.linkedin.com/in/vennela-thota-b374b232a
+Email: vennelathota59@gmail.com
 
-All projects uploaded here are part of my learning journey in Data Analytics, AI, and Cloud technologies.
+⭐ Note
+This repository contains my learning journey, projects, and internship work in Data Analytics, AI, and Cloud technologies.
